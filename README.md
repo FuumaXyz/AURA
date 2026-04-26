@@ -92,7 +92,7 @@ This tool is for **educational purposes only**. Users are responsible for comply
 
 <div align="center">
 
-⚡ Star this repo if it helps you!
+Star this repo if it helps you!
 
 Made with 💖 by **FuumaXyz**
 
