@@ -1,17 +1,6 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════╗
-║                                           ║
-║     █████╗ ██╗   ██╗██████╗  █████╗      ║
-║    ██╔══██╗██║   ██║██╔══██╗██╔══██╗     ║
-║    ███████║██║   ██║██████╔╝███████║     ║
-║    ██╔══██║██║   ██║██╔══██╗██╔══██║     ║
-║    ██║  ██║╚██████╔╝██║  ██║██║  ██║     ║
-║    ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝     ║
-║                                           ║
-╚═══════════════════════════════════════════╝
-```
+![](doc/home.jpg?raw=true)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-ff69b4?style=flat-square)
 ![License](https://img.shields.io/badge/license-private-red?style=flat-square)
@@ -55,6 +44,7 @@ cd tiktok
 bash aura.sh
 ```
 
+
 **AURA monitors Bottok 24/7:**
 1. Starts Bottok with your chosen mode (Views/Hearts/Favorites)
 2. Detects when Bottok stops (due to limitations)
@@ -62,7 +52,7 @@ bash aura.sh
 4. Repeats endlessly — **no limits, no interruptions**
 
 
-Menu
+**Menu**
 ```
 [1] Views      — Boost video views
 [2] Hearts     — Boost hearts/likes  
@@ -72,7 +62,7 @@ Menu
 [6] Exit       — Quit program
 ```
 
-Settings
+**Settings**
 ```
 [1] Remove Cookies   — Reset cookies
 [2] Set Cookies      — Input new cookies
