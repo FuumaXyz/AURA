@@ -21,7 +21,6 @@
 
 </div>
 
----
 
 ## 🎯 What is AURA?
 
@@ -29,7 +28,6 @@
 
 > Bottok normally has built-in limits that halt operation after certain usage. AURA bypasses this by detecting when Bottok stops and immediately relaunching it — giving you **unlimited, uninterrupted automation**.
 
----
 
 ## 🚀 How To Install
 Requirements: [termux](https://termux.dev/en/)
@@ -63,7 +61,6 @@ bash aura.sh
 3. Immediately relaunches Bottok automatically
 4. Repeats endlessly — **no limits, no interruptions**
 
----
 
 Menu
 ```
@@ -82,13 +79,11 @@ Settings
 [3] Extract Modules  — Reinstall node_modules
 ```
 
----
 
 ⚠️ Disclaimer
 
 This tool is for **educational purposes only**. Users are responsible for complying with platform terms of service. The developer assumes no liability for misuse.
 
----
 
 <div align="center">
 
