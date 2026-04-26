@@ -36,8 +36,8 @@ Requirements: [termux](https://termux.dev/en/)
 
 1. Install Alpine in Termux
 ```bash
-pkg update
-pkg upgrade
+pkg update -y
+pkg upgrade -y
 pkg install wget -y
 wget https://raw.githubusercontent.com/FuumaXyz/AURA/refs/heads/main/install-termux.sh
 chmod +x install-termux.sh
