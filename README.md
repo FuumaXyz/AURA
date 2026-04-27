@@ -21,7 +21,7 @@
 ## 🚀 How To Install
 Requirements: [termux](https://termux.dev/en/)
 
-1. Install Alpine in Termux
+1. Install alpine in termux
 ```bash
 pkg update
 pkg upgrade
@@ -31,7 +31,7 @@ chmod +x install-termux.sh
 ./install-termux.sh
 ```
 
-2. Run in Alpine terminal
+2. run in alpine terminal
 ```bash
 wget https://raw.githubusercontent.com/FuumaXyz/AURA/refs/heads/main/install-alpine.sh
 chmod +x install-alpine.sh
@@ -39,9 +39,13 @@ chmod +x install-alpine.sh
 ```
 
 🎮 Usage
+1. login alpine
 ```bash
 proot-distro login alpine
-cd tiktok
+```
+2. run in alpine
+```bash
+cd AURA
 bash aura.sh
 ```
 
