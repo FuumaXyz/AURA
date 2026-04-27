@@ -39,7 +39,8 @@ chmod +x install-alpine.sh
 ```
 
 🎮 Usage
-```proot-distro login alpine
+```bash
+proot-distro login alpine
 cd tiktok
 bash aura.sh
 ```
@@ -75,10 +76,7 @@ bash aura.sh
 This tool is for **educational purposes only**. Users are responsible for complying with platform terms of service. The developer assumes no liability for misuse.
 
 
-<div align="center">
 
 Star this repo if it helps you!
 
 Made with 💖 by **FuumaXyz**
-
-</div>
